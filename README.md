@@ -24,7 +24,7 @@ Fullstack Next.js E-commerce
 - Sentry
 - Yup
 
-## Screenshots 📸
+## Screenshotss 📸
 
 <br>
 
